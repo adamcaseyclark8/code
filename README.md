@@ -1,4 +1,4 @@
 to run the tests
 
-`npm install`
+`npm install`\n
 `npm run tests`
